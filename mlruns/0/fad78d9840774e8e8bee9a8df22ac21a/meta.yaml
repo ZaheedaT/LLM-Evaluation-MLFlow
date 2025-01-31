@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/zahee/LLM-Evaluation-MLFlow/mlruns/0/fad78d9840774e8e8bee9a8df22ac21a/artifacts
+end_time: 1737588079011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fad78d9840774e8e8bee9a8df22ac21a
+run_name: awesome-sheep-706
+run_uuid: fad78d9840774e8e8bee9a8df22ac21a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737587984907
+status: 3
+tags: []
+user_id: zahee

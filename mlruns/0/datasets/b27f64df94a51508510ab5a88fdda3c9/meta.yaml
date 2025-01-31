@@ -1,0 +1,7 @@
+digest: 8da81803
+name: dataset
+profile: '{"num_rows": 4, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "questions", "required": true}]}'
+source: '{"tags": {"mlflow.user": "zahee", "mlflow.source.name": "app/rag_system.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "15a3ecb5aea3967b5875bd10be9ad56a48a1afed"}}'
+source_type: code

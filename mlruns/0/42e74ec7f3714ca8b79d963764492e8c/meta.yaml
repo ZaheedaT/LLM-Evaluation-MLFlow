@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/zahee/LLM-Evaluation-MLFlow/mlruns/0/42e74ec7f3714ca8b79d963764492e8c/artifacts
+end_time: 1733326096221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42e74ec7f3714ca8b79d963764492e8c
+run_name: grandiose-moth-570
+run_uuid: 42e74ec7f3714ca8b79d963764492e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733326095312
+status: 3
+tags: []
+user_id: zahee
